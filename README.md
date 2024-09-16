@@ -11,10 +11,10 @@ The following review is an exploration of how programming languages can be utili
 3. Question 2 : What do experts have to say on whether works created using AI are art or not?
 4. Question 3 : 
 
-##Question 1: How can artists use programming languages as a took in their work?
+## Question 1: How can artists use programming languages as a took in their work?
 With the advancement of technology, programming languages have become indispensable tools in contemporary art, allowing artists to create works that venture beyond the constraints of traditional media. From generative visual art to interactive installations and algorithmic music, programming opens new creative avenues that inspire a blending of aesthetics, technology, and innovation.
 
-###Generative Art
+### Generative Art
 Generative art refers to works formed by algorithms that follow a set of rules, rules defined by the artist using a programming language. Depending on the artist's direction, the output can be visual, auditory, or even sculptural. Artists often use languages like **Processing**, **p5.js**, or **Python** to manipulate artwork through dynamic parameters.
 
 **Processing**
@@ -37,7 +37,7 @@ Popular programming languages like Python and JavaScript, often paired with libr
 
 Though on the rise, generative art poses a challenge to traditional notions of the artist as the sole creator. Instead, it positions the artist as a co-creator with the machine, exploring how randomness and rule-based systems contribute to the final outcome of a work.
 
-##Question 2: What do experts have to say on whether works created using AI are art or not?
+## Question 2: What do experts have to say on whether works created using AI are art or not?
 The question of whether art created using artificial intelligence is truly "art" has sparked debate among scholars, critics, and artists. The discussion largely revolves around what defines creativity, authorship, and the role of the artist in the creation process.
 
 **AI as a Tool for Expression**
