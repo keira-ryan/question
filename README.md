@@ -10,7 +10,8 @@ The following review is an exploration of how programming languages can be utili
 
 **Topics Explored**
 1. Question 1 : How can artists use programming languages as a tool in their work?
-3. Question 2 : What do experts have to say on whether works created using AI are art or not?
+2. Question 2 : What do experts have to say on whether works created using AI are art or not?
+3. Question 3 : How do programming lanugages analyze art and identify/emulate style?
 
 ## Question 1: How can artists use programming languages as a tool in their work?
 With the advancement of technology, programming languages have become indispensable tools in contemporary art, allowing artists to create works that venture beyond the constraints of traditional media. From generative visual art to interactive installations and algorithmic music, programming opens new creative avenues that inspire a blending of aesthetics, technology, and innovation.
@@ -59,23 +60,51 @@ The question of when AI-generated work becomes the property of others—such as 
 
 - According to Lawrence Lessig, a legal scholar known for his work on intellectual property, AI-generated art poses significant challenges to current copyright laws. Lessig argues that when the machine plays a significant role in generating the creative output, we must rethink what it means to be an author. He suggests that copyright laws may need to evolve to recognize shared authorship between the human and the machine, or even introduce new legal frameworks.
 
+## Question 3 : How do programming lanugages analyze art and identify/emulate style?
+Programming languages, particularly when integrated with machine learning and artificial intelligence, play a significant role in analyzing and identifying art styles. These techniques leverage various methods, such as convolutional neural networks (CNNs), deep learning, and computer vision algorithms, to recognize patterns, features, and stylistic elements in visual artworks.
 
+## Convolutional Neural Networks and Deep Learning
+Convolutional Neural Networks (CNNs) are one of the most common techniques used for image classification and style recognition in artworks. These neural networks are trained on large datasets of labeled art images to learn specific features associated with different styles, such as color palettes, brushstrokes, and compositional patterns. The following is a high-level breakdown of the process: 
 
+- A CNN processes an image through multiple layers, where each layer detects different features like edges, textures, or shapes.
+- Deeper layers combine these features to recognize more complex patterns, such as faces, objects, or, in the case of art, specific artistic elements.
+- For style classification, CNNs can be trained to distinguish between art movements like Impressionism, Baroque, etc., based on visual patterns learned during training.
+
+### Style Transfer
+Style transfer is a popular AI technique that uses neural networks to apply the style of one image, usually a famous painting, to the content of another image. While this technique is often used for entertainment or creative purposes, it also provides insights into how AI understands and distinguishes different artistic styles. The following is a high-level breakdown of the process:
+
+- A pre-trained neural network extracts content from one image and style features from the other
+- Style features include color patterns, texture details, and brushstroke styles, which are then recombined to produce an image that has the content of the first image but the style of the other.
+
+### Cultural and Historical Context
+In addition to analyzing visual features, programming languages are now being used to assess the cultural and historical context of artworks. By analyzing metadata, such as the period in which the artwork was created, the artist's background, and influences from specific historical events, AI can enhance its understanding of art styles and movements. The following is a high-level breakdown of the process:
+
+- Natural Language Processing (NLP) techniques are used to analyze art-related texts, such as exhibition catalogs, critiques, and academic papers.
+- These tools help AI models to understand art history in a broader context, connecting visual styles with cultural, political, and social influences.
+
+## Conclusion
+All in all, art and technology have a long history of engagement. As with all fields, the rise of artificial intelligence has raised questions as to originality and agency. However, reminiscent discussions such as those concerning digital art and generative art tools exist and set precedence for future conversation. By referencing previous standards of creativity in the lens of new technologies, creatives can make informed decisions when experimenting with new processes. 
 
 ## References
-Boden, Margaret A. AI: Its nature and future. Oxford University Press, 2016.
+Boden, Margaret A. AI: Its nature and future. Oxford University Press, 2016. https://books.google.com/books?hl=en&lr=&id=yDQTDAAAQBAJ&oi=fnd&pg=PP1&dq=AI:+Its+nature+and+future&ots=T2fn3A64Ob&sig=woI-paE0Adh4_WuZwgpyfwOaxpc#v=onepage&q=AI%3A%20Its%20nature%20and%20future&f=false 
 
-De Cremer, David, and Garry Kasparov. "AI should augment human intelligence, not replace it." Harvard Business Review 18.1 (2021).
+De Cremer, David, and Garry Kasparov. "AI should augment human intelligence, not replace it." Harvard Business Review 18.1 (2021). https://www.daviddecremer.com/wp-content/uploads/HBR2021_AI-Should-Augment-Human-Intelligence-Not-Replace-It.pdf 
 
-Elgammal, Ahmed, et al. "CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms." arXiv preprint arXiv:1706.07068 (2017).
+Elgammal, Ahmed, et al. "CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms." arXiv preprint arXiv:1706.07068 (2017). https://arxiv.org/abs/1706.07068 
 
-Galanter, Philip. "Generative art theory." A companion to digital art (2016): 146-180.
+Galanter, Philip. "Generative art theory." A companion to digital art (2016): 146-180. https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118475249.ch5 
 
-Lawrence, Lessig. "Making Art and Commerce Thrive In The Hybrid Economy." (2008).
+Gatys, L. A., Ecker, A. S., & Bethge, M. "A Neural Algorithm of Artistic Style." *ArXiv Preprint*. (2015). https://arxiv.org/abs/1508.06576
 
-McCormack, Jon, Toby Gifford, and Patrick Hutchings. "Autonomy, authenticity, authorship and intention in computer generated art." International conference on computational intelligence in music, sound, art and design (part of EvoStar). Cham: Springer International Publishing, 2019.
+Karayev, S., Hertzmann, A., & Winnemoeller, H. "Recognizing Image Style." *European Conference on Computer Vision* (ECCV). (2014). https://arxiv.org/abs/1311.3715
 
-Reas, Casey. Processing: A Programming Handbook for Visual Designers and Artists. The MIT Press, 2007.
+Lawrence, Lessig. "Making Art and Commerce Thrive In The Hybrid Economy." (2008). http://dspace.kottakkalfarookcollege.edu.in:8001/jspui/bitstream/123456789/147/1/Remix-o.pdf 
+
+McCormack, Jon, Toby Gifford, and Patrick Hutchings. "Autonomy, authenticity, authorship and intention in computer generated art." International conference on computational intelligence in music, sound, art and design (part of EvoStar). Cham: Springer International Publishing, 2019. https://arxiv.org/abs/1903.02166 
+
+Reas, Casey. Processing: A Programming Handbook for Visual Designers and Artists. The MIT Press, 2007. https://books.google.com/books?hl=en&lr=&id=tqW75bfJkxIC&oi=fnd&pg=PR19&dq=reas+processing:+a+programming+handbook&ots=SpWXUIQKV7&sig=wcWBpgfXBMarf3q2Z5OEPMgdac0#v=onepage&q=reas%20processing%3A%20a%20programming%20handbook&f=false 
+
+Saleh, B., & Elgammal, A. "Large-scale Classification of Fine-Art Paintings: Learning The Right Metric on The Right Feature." *ArXiv Preprint*. (2015). https://arxiv.org/abs/1505.00855
 
 
 
