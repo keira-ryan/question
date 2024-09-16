@@ -63,7 +63,7 @@ The question of when AI-generated work becomes the property of others—such as 
 ## Question 3 : How do programming lanugages analyze art and identify/emulate style?
 Programming languages, particularly when integrated with machine learning and artificial intelligence, play a significant role in analyzing and identifying art styles. These techniques leverage various methods, such as convolutional neural networks (CNNs), deep learning, and computer vision algorithms, to recognize patterns, features, and stylistic elements in visual artworks.
 
-## Convolutional Neural Networks and Deep Learning
+### Convolutional Neural Networks and Deep Learning
 Convolutional Neural Networks (CNNs) are one of the most common techniques used for image classification and style recognition in artworks. These neural networks are trained on large datasets of labeled art images to learn specific features associated with different styles, such as color palettes, brushstrokes, and compositional patterns. The following is a high-level breakdown of the process: 
 
 - A CNN processes an image through multiple layers, where each layer detects different features like edges, textures, or shapes.
