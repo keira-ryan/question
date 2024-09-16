@@ -1,5 +1,6 @@
-# Programming Lanugages and Art
+# Programming Languages and Art
 Keira Ryan
+
 keiryan@chapman.edu
 
 
