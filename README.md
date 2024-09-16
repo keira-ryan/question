@@ -11,7 +11,6 @@ The following review is an exploration of how programming languages can be utili
 **Topics Explored**
 1. Question 1 : How can artists use programming languages as a tool in their work?
 3. Question 2 : What do experts have to say on whether works created using AI are art or not?
-4. Question 3 : 
 
 ## Question 1: How can artists use programming languages as a tool in their work?
 With the advancement of technology, programming languages have become indispensable tools in contemporary art, allowing artists to create works that venture beyond the constraints of traditional media. From generative visual art to interactive installations and algorithmic music, programming opens new creative avenues that inspire a blending of aesthetics, technology, and innovation.
@@ -59,16 +58,6 @@ Critics of AI-generated art often question whether machines can genuinely be cre
 The question of when AI-generated work becomes the property of others—such as the programmer, the dataset provider, or even the public—touches on legal and ethical issues surrounding authorship and ownership.
 
 - According to Lawrence Lessig, a legal scholar known for his work on intellectual property, AI-generated art poses significant challenges to current copyright laws. Lessig argues that when the machine plays a significant role in generating the creative output, we must rethink what it means to be an author. He suggests that copyright laws may need to evolve to recognize shared authorship between the human and the machine, or even introduce new legal frameworks.
-
-
-
-
-
-
-
-
-
-
 
 
 
